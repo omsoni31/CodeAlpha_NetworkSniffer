@@ -12,5 +12,8 @@ This project captures network packets using Python and Scapy.
 - Python
 - Scapy
 
+## Output Screenshot
+![Output](output.png)
+
 ## Author
 Om Soni
